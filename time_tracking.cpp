@@ -9,13 +9,11 @@ int main()
 	std::time_t begin = 0;
 	std::time_t end = 0;
 	
-
 	std::vector<std::string> task_name(0);
 	std::vector<int> result(0);
 
 	do {
-
-		
+				
 		std::string task;
 
 		std::cout << "Enter command: ";
